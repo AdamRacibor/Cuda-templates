@@ -7,4 +7,4 @@ Na tym projekcje ćwiczyłem tworzenie strony w oparciu o projekt PSD. Po raz pi
  - SASS
  - Bootstrap
  
- LIVE: [https://danroxx.github.io/Cuda-templates/](https://danroxx.github.io/Cuda-templates/)
+ LIVE: [https://adamracibor.github.io/Cuda-templates/index.html](https://adamracibor.github.io/Cuda-templates/index.html)
